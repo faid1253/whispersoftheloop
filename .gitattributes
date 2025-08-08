@@ -1,1 +1,6 @@
+
 *.mov filter=lfs diff=lfs merge=lfs -text
+
+# Auto detect text files and perform LF normalization
+* text=auto
+ fbfa6f258ce767de7a9224572260e1b38029776a
