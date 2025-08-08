@@ -1,5 +1,5 @@
 # Whispers of the Loop - Unity Prototype
-
+[project.gif]
 Final Writeup
 Can I show off your submission to future sections of the course? You can definitely show this off, I'm not sure why you would want to though, maybe if I put a couple weeks more effort into this.
 Provide a link to a gameplay video of your project.Provide a link to where I can download your project (source code). 
